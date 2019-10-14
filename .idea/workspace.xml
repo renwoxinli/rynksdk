@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.2/rynkImSDK-1.0.2.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.2/rynkImSDK-1.0.2.aar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.2/rynkImSDK-1.0.2.aar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.2/rynkImSDK-1.0.2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.2/rynkImSDK-1.0.2.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.2/rynkImSDK-1.0.2.pom.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1" afterDir="false" />
-    </list>
+    <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571026798062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix">
+      <created>1571028040061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571028040061</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
