@@ -69,6 +69,16 @@
               <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
               <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="githubsdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="githubsdk" type="462c0819:PsiDirectoryNode" />
+              <item name="myImSdk" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rynk" type="462c0819:PsiDirectoryNode" />
+              <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
+              <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
+              <item name="1.0.3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571028040061</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix">
+      <created>1571029233190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571029233190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
