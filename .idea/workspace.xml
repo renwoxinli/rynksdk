@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.5/rynkImSDK-1.0.5.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.5/rynkImSDK-1.0.5.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.5/rynkImSDK-1.0.5.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.5/rynkImSDK-1.0.5.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.5/rynkImSDK-1.0.5.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.5/rynkImSDK-1.0.5.pom.sha1" beforeDir="false" />
-    </list>
+    <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +68,16 @@
               <item name="rynk" type="462c0819:PsiDirectoryNode" />
               <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
               <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="githubsdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="githubsdk" type="462c0819:PsiDirectoryNode" />
+              <item name="myImSdk" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rynk" type="462c0819:PsiDirectoryNode" />
+              <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
+              <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
+              <item name="1.0.6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,13 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571034410997</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix">
+      <created>1571044321584</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571044321584</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="944" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="944" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.20614828" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.17842074" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Designer" />
