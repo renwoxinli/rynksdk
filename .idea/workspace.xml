@@ -2,16 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.aar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.aar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.pom.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.6/rynkImSDK-1.0.6.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.6/rynkImSDK-1.0.6.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.6/rynkImSDK-1.0.6.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.6/rynkImSDK-1.0.6.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.6/rynkImSDK-1.0.6.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.6/rynkImSDK-1.0.6.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.7/rynkImSDK-1.0.7.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.7/rynkImSDK-1.0.7.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.7/rynkImSDK-1.0.7.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.7/rynkImSDK-1.0.7.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.7/rynkImSDK-1.0.7.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.7/rynkImSDK-1.0.7.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.8/rynkImSDK-1.0.8.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.8/rynkImSDK-1.0.8.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.8/rynkImSDK-1.0.8.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.8/rynkImSDK-1.0.8.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.8/rynkImSDK-1.0.8.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.8/rynkImSDK-1.0.8.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.9/rynkImSDK-1.0.9.pom.sha1" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,46 +94,6 @@
               <item name="rynk" type="462c0819:PsiDirectoryNode" />
               <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
               <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubsdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubsdk" type="462c0819:PsiDirectoryNode" />
-              <item name="myImSdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rynk" type="462c0819:PsiDirectoryNode" />
-              <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="1.0.6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubsdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubsdk" type="462c0819:PsiDirectoryNode" />
-              <item name="myImSdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rynk" type="462c0819:PsiDirectoryNode" />
-              <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="1.0.7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubsdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubsdk" type="462c0819:PsiDirectoryNode" />
-              <item name="myImSdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rynk" type="462c0819:PsiDirectoryNode" />
-              <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="1.0.8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubsdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubsdk" type="462c0819:PsiDirectoryNode" />
-              <item name="myImSdk" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="rynk" type="462c0819:PsiDirectoryNode" />
-              <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="1.0.9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571045843356</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fix">
+      <created>1571047904448</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571047904448</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
