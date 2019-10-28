@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.0/rynkImSDK-1.0.0.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.0/rynkImSDK-1.0.0.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.0/rynkImSDK-1.0.0.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.0/rynkImSDK-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.0/rynkImSDK-1.0.0.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.0/rynkImSDK-1.0.0.pom.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.16/rynkImSDK-1.0.16.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.16/rynkImSDK-1.0.16.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.16/rynkImSDK-1.0.16.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.16/rynkImSDK-1.0.16.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.16/rynkImSDK-1.0.16.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.16/rynkImSDK-1.0.16.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.17/rynkImSDK-1.0.17.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.17/rynkImSDK-1.0.17.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.17/rynkImSDK-1.0.17.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.17/rynkImSDK-1.0.17.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.17/rynkImSDK-1.0.17.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.17/rynkImSDK-1.0.17.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +30,31 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +63,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/myImSdk.iml" />
+        <option value="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" />
       </list>
     </option>
   </component>
@@ -43,7 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,11 +120,21 @@
               <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
               <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="githubsdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="githubsdk" type="462c0819:PsiDirectoryNode" />
+              <item name="myImSdk" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rynk" type="462c0819:PsiDirectoryNode" />
+              <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
+              <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
+              <item name="1.0.0" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,14 +338,22 @@
       <option name="project" value="LOCAL" />
       <updated>1571644022324</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="fix">
+      <created>1571971617242</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571971617242</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1385" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28445747" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26686218" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -325,14 +377,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/myImSdk.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -344,6 +388,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
