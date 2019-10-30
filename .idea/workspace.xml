@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="" />
+    <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml.sha1" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -111,7 +115,7 @@
               <item name="rynk" type="462c0819:PsiDirectoryNode" />
               <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
               <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="1.2.1" type="462c0819:PsiDirectoryNode" />
+              <item name="1.2.2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,12 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572261147284</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="fix">
+      <created>1572261470852</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1572261470852</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1385" height="790" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24560118" />
@@ -407,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
