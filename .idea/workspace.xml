@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="" />
+    <list default="true" id="4a154436-da6f-4cda-8671-5c7ed7298f7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="323">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -52,14 +54,16 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1385" />
-    <option name="height" value="790" />
+    <option name="width" value="1654" />
+    <option name="height" value="935" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,19 +114,18 @@
               <item name="rynk" type="462c0819:PsiDirectoryNode" />
               <item name="ImSDK" type="462c0819:PsiDirectoryNode" />
               <item name="rynkImSDK" type="462c0819:PsiDirectoryNode" />
-              <item name="1.2.4" type="462c0819:PsiDirectoryNode" />
+              <item name="1.2.5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -370,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576221906665</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fix1.2.5">
+      <created>1576563602693</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1576563602693</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -378,7 +388,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2617302" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2617302" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -391,15 +401,42 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Gradle View" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3295129" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="fix1.2.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix1.2.5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/myImSdk.iml">
@@ -412,8 +449,8 @@
     <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/1.0.0/rynkImSDK-1.0.0.pom" />
     <entry file="file://$PROJECT_DIR$/myImSdk/com/rynk/ImSDK/rynkImSDK/maven-metadata.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="323">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
